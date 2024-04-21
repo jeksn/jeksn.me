@@ -12,6 +12,7 @@
     "nuxt": "^3.11.2"
   },
   "devDependencies": {
+    "@nuxthq/studio": "^1.0.13",
     "@nuxtjs/tailwindcss": "^6.12.0"
   }
 }
