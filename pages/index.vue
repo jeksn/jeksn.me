@@ -67,6 +67,14 @@
 					</li>
 				 </ul>
 			  </div>
+			  <div class="mt-8 mb-4">
+				<h2 class="text-lg md:text-2xl">My latest articles:</h2>
+				<ContentList path="/" v-slot="{ list }">
+					<div v-for="article in list" :key="article._path">
+						<NuxtLink :to="article._path">{{ article.title }}</NuxtLink>
+					</div>
+					</ContentList>
+			  </div>
 			</div>
 		 </div>
 	</main>
