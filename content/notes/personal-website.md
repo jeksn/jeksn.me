@@ -1,7 +1,7 @@
 ---
 title: 'Why I keep a personal website'
 pubDate: '2024-01-01'
-layout: 'article'
+layout: 'notes'
 ---
 
 # {{ title }}
