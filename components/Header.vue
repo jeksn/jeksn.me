@@ -3,9 +3,9 @@
     <header class="fixed w-full">
       <div class="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
         <div>
-          <a href="/" class="px-4 py-2 text-sm text-black bg-white rounded-sm">
+          <NuxtLink to="/" class="px-4 py-2 text-sm text-black bg-white rounded-sm">
             jeksn.me
-          </a>
+          </NuxtLink>
         </div>
         <div>
           <button @click="open = !open">
@@ -20,39 +20,34 @@
         <div v-if="open" class="absolute px-8 w-full left-0 top-[4rem] dropdown" v-bind:class="{ 'hidden': !open, 'block': open }">
           <ul class="max-w-screen-lg px-4 pt-4 pb-8 mx-auto text-white">
             <li class="py-2">
-              <a 
-              href="/notes"
+              <NuxtLink to="/notes"
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
               Notes
-              </a>
+              </NuxtLink>
             </li>
             <li class="py-2">
-              <a 
-              href="/uses" 
+              <NuxtLink to="/uses"
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
               Uses
-              </a>
+              </NuxtLink>
             </li>
             <li class="py-2">
-              <a 
-              href="/reading-list" 
+              <NuxtLink to="/reading-list"
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
               Reading list
-              </a>
+              </NuxtLink>
             </li>
             <li class="py-2">
-              <a 
-              href="/small-projects" 
+              <NuxtLink to="/small-projects" 
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
                 Small projects
-              </a>
+              </NuxtLink>
             </li>
             <li class="py-2">
-              <a 
-              href="https://github.com/jeksn/jeksn.me" 
+              <NuxtLink to="https://github.com/jeksn/jeksn.me" 
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
                 Repo
-              </a>
+              </NuxtLink>
             </li>
           </ul>
         </div>

@@ -1,12 +1,18 @@
-<script setup>
+<script setup lang="ts">
+const title = ref('Small projects');
+const description = ref('My small projects');
 definePageMeta({
-    title: 'Small projects',
-    layout: 'page'
+  title: 'Small projects',
+  layout: 'page',
 })
 </script>
 
 <template>
-    <h1 class="text-4xl">Small projects</h1>
+    <Head>
+      <Title>{{ title }}</Title>
+      <Meta name="description" :content="description" />
+    </Head>
+    <h1 class="text-4xl">{{ title }}</h1>
     <ul class="flex mt-12 text-base md:text-lg">
         <li class="flex items-center justify-center gap-4 py-4 border border-white rounded hover:bg-white hover:text-black w-fit px-9">
             <p class="cursor-default">Week Number</p>

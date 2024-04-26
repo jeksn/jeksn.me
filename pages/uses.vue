@@ -1,13 +1,19 @@
-<script>
+<script setup lang="ts">
+const title = ref('Uses');
+const description = ref('List off stuff and services I use');
 definePageMeta({
   title: 'Uses',
   layout: 'page',
 })
 </script>
 <template>
-    <h1 class="text-4xl">Uses</h1>
+    <Head>
+      <Title>{{ title + ' | ' + 'jeksn.me' }}</Title>
+      <Meta name="description" :content="description" />
+    </Head>
+    <h1 class="text-4xl">{{ title }}</h1>
     <div class="mt-6">
-        <p>List off stuff and services I use</p>
+        <p>{{ description }}</p>
         <div>
             <br>
             <h2 class="text-2xl">Apps & Services</h2>

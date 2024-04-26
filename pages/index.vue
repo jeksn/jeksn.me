@@ -1,8 +1,3 @@
-<script setup lang="ts">
-definePageMeta({
-  title: 'jeksn.me'
-})
-</script>
 <template>
 	<Header />
     <main class="text-white bg-black">
