@@ -1,6 +1,18 @@
+<script setup lang="ts">
+useHead({
+  title: 'jeksn.me',
+  meta: [
+    { name: 'description', content: 'My personal site.' }
+  ],
+  bodyAttrs: {
+    class: 'bg-black text-white'
+  },
+  // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
+})
+</script>
+
 <template>
-  <div class="bg-black text-white">
-    <Header />
-      <NuxtPage />
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>

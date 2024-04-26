@@ -1,5 +1,11 @@
+<script setup lang="ts">
+definePageMeta({
+  title: 'jeksn.me'
+})
+</script>
 <template>
-    <main>
+	<Header />
+    <main class="text-white bg-black">
 		<div class="flex flex-col items-center justify-center h-screen px-4">
 			<div class="max-w-screen-lg px-4 mx-auto">
 			  <h2 class="mt-4 text-4xl font-semibold md:text-6xl">

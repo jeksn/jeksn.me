@@ -1,11 +1,14 @@
 <template>
-    <div class="pt-24 min-h-screen">
-        <div class="max-w-screen-lg mx-auto px-4">
-            <div class="nuxt-content">
-                <slot />
-            </div> 
+    <Header />
+    <main>
+        <div class="min-h-screen pt-24">
+            <div class="max-w-screen-lg px-4 mx-auto">
+                <div class="nuxt-content">
+                    <slot />
+                </div> 
+            </div>
         </div>
-    </div>
+    </main>
 </template>
 <style>
 .nuxt-content h1 {
