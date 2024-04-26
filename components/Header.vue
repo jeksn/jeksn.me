@@ -18,7 +18,7 @@
           </button>
         </div>
         <div v-if="open" class="absolute px-8 w-full left-0 top-[4rem] dropdown" v-bind:class="{ 'hidden': !open, 'block': open }">
-          <ul class="pt-4 pb-8 max-w-screen-lg px-4 mx-auto">
+          <ul class="max-w-screen-lg px-4 pt-4 pb-8 mx-auto">
             <li class="py-2">
               <a 
               href="/notes"
@@ -49,7 +49,7 @@
             </li>
             <li class="py-2">
               <a 
-              href="https://github.com/jeksn/jeksn-astro" 
+              href="https://github.com/jeksn/jeksn.me" 
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
                 Repo
               </a>
