@@ -9,8 +9,9 @@ layout: article
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- Why Read? / Mark Edmundson
 - In the Heart of the Heart of the Country / William H. Gass
+- Hamlet / William Shakespeare
+- Stoner / John Williams
 
 ## 2024
 
@@ -30,6 +31,7 @@ layout: article
 - ⭐️ Death's End / Cixin Liu
 - The Things They Carried / Tim O'Brien
 - Revolten, Rörelsen, Refused / Patrik Wirén
+- Why Read? / Mark Edmundson
 
 ## 2023
 
