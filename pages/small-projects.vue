@@ -12,6 +12,7 @@ definePageMeta({
       <Title>{{ title }}</Title>
       <Meta name="description" :content="description" />
     </Head>
+    <NuxtLayout>
     <h1 class="text-4xl">{{ title }}</h1>
     <ul class="flex mt-12 text-base md:text-lg">
         <li class="flex items-center justify-center gap-4 py-4 border border-white rounded hover:bg-white hover:text-black w-fit px-9">
@@ -27,4 +28,5 @@ definePageMeta({
         </a>
         </li>
     </ul>
+  </NuxtLayout>
 </template>

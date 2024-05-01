@@ -11,6 +11,7 @@ definePageMeta({
       <Title>{{ title + ' | ' + 'jeksn.me' }}</Title>
       <Meta name="description" :content="description" />
     </Head>
+    <NuxtLayout>
     <h1 class="text-4xl">{{ title }}</h1>
     <div class="mt-6">
         <p>{{ description }}</p>
@@ -47,4 +48,6 @@ definePageMeta({
             </ul>
         </div>
     </div>
+    </NuxtLayout>
+
 </template>
