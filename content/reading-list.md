@@ -11,7 +11,6 @@ layout: article
 - Against the Day / Thomas Pynchon
 - In the Heart of the Heart of the Country / William H. Gass
 - Hamlet / William Shakespeare
-- Stoner / John Williams
 
 ## 2024
 
@@ -28,10 +27,11 @@ layout: article
 - Mr. Mulliner Stories / P.G. Wodehouse
 - The PARA Method / Tiago Forte
 - The Metamorphosis / Franz Kafka
-- ⭐️ Death's End / Cixin Liu
+- Death's End / Cixin Liu
 - The Things They Carried / Tim O'Brien
 - Revolten, Rörelsen, Refused / Patrik Wirén
 - Why Read? / Mark Edmundson
+- ⭐️ Stoner / John Williams
 
 ## 2023
 
