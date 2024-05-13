@@ -9,8 +9,6 @@ layout: article
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- In the Heart of the Heart of the Country / William H. Gass
-- Hamlet / William Shakespeare
 
 ## 2024
 
@@ -32,6 +30,8 @@ layout: article
 - Revolten, Rörelsen, Refused / Patrik Wirén
 - Why Read? / Mark Edmundson
 - ⭐️ Stoner / John Williams
+- In the Heart of the Heart of the Country / William H. Gass
+- Hamlet / William Shakespeare
 
 ## 2023
 
