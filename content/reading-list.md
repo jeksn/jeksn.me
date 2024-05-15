@@ -9,6 +9,7 @@ layout: article
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
+- The Wager / David Grann
 
 ## 2024
 
