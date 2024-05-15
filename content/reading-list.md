@@ -32,7 +32,7 @@ layout: article
 - Why Read? / Mark Edmundson
 - ⭐️ Stoner / John Williams
 - In the Heart of the Heart of the Country / William H. Gass
-- Hamlet / William Shakespeare
+- The Annotated Hamlet / William Shakespeare
 
 ## 2023
 
