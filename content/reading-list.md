@@ -10,6 +10,7 @@ layout: article
 
 - Against the Day / Thomas Pynchon
 - The Wager / David Grann
+- Daily Rituals / Mason Currey
 
 ## 2024
 
