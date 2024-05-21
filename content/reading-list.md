@@ -34,6 +34,7 @@ layout: article
 - ⭐️ Stoner / John Williams
 - In the Heart of the Heart of the Country / William H. Gass
 - The Annotated Hamlet / William Shakespeare
+- Lessons in Stoicism / John Sellars
 
 ## 2023
 
