@@ -9,9 +9,8 @@ layout: article
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- The Wager / David Grann
-- Daily Rituals / Mason Currey
 - Meditations / Marcus Aurelius 
+- Sommarboken / Tove Jansson
 
 ## 2024
 
@@ -36,6 +35,8 @@ layout: article
 - In the Heart of the Heart of the Country / William H. Gass
 - The Annotated Hamlet / William Shakespeare
 - Lessons in Stoicism / John Sellars
+- The Wager / David Grann
+- Daily Rituals / Mason Currey
 
 ## 2023
 
