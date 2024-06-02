@@ -9,8 +9,8 @@ layout: article
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- Meditations / Marcus Aurelius 
-- Sommarboken / Tove Jansson
+- Meditations / Marcus Aurelius
+- Hands of Time / Rebecca Struthers
 
 ## 2024
 
@@ -37,6 +37,7 @@ layout: article
 - Lessons in Stoicism / John Sellars
 - The Wager / David Grann
 - Daily Rituals / Mason Currey
+- Sommarboken / Tove Jansson
 
 ## 2023
 
