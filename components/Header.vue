@@ -38,6 +38,12 @@
               </NuxtLink>
             </li>
             <li class="py-2">
+              <NuxtLink to="/now"
+              class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
+              Now
+              </NuxtLink>
+            </li>
+            <li class="py-2">
               <NuxtLink to="/small-projects" 
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
                 Small projects
