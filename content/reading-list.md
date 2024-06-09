@@ -10,7 +10,6 @@ layout: article
 
 - Against the Day / Thomas Pynchon
 - Meditations / Marcus Aurelius
-- Hands of Time / Rebecca Struthers
 
 ## 2024
 
@@ -38,6 +37,7 @@ layout: article
 - The Wager / David Grann
 - Daily Rituals / Mason Currey
 - Sommarboken / Tove Jansson
+- Hands of Time / Rebecca Struthers
 
 ## 2023
 
