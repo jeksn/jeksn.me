@@ -10,6 +10,7 @@ layout: article
 
 - Against the Day / Thomas Pynchon
 - Meditations / Marcus Aurelius
+- Savage Gods / Paul Kingsnorth
 
 ## 2024
 
