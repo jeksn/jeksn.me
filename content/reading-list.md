@@ -11,6 +11,7 @@ layout: article
 - Against the Day / Thomas Pynchon
 - Meditations / Marcus Aurelius
 - Savage Gods / Paul Kingsnorth
+- His Name was Death / Rafael Bernal
 
 ## 2024
 
