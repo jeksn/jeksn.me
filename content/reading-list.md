@@ -9,9 +9,7 @@ layout: article
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- Meditations / Marcus Aurelius
 - Savage Gods / Paul Kingsnorth
-- His Name was Death / Rafael Bernal
 
 ## 2024
 
@@ -40,6 +38,8 @@ layout: article
 - Daily Rituals / Mason Currey
 - Sommarboken / Tove Jansson
 - Hands of Time / Rebecca Struthers
+- His Name was Death / Rafael Bernal
+- Meditations / Marcus Aurelius
 
 ## 2023
 
