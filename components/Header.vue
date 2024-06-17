@@ -1,6 +1,6 @@
 
 <template>
-    <header class="fixed w-full">
+    <header class="sticky top-0 w-full">
       <div class="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
         <div>
           <NuxtLink to="/" class="px-4 py-2 text-sm text-black bg-white rounded-sm">

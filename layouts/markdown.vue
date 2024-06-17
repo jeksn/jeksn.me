@@ -1,11 +1,9 @@
 <template>
     <Header />
     <main>
-        <div class="min-h-screen pt-24">
-            <div class="max-w-screen-lg px-4 mx-auto">
-                <div class="nuxt-content">
-                    <slot />
-                </div> 
+        <div class="min-h-screen">
+            <div class="nuxt-content">
+                <slot />
             </div>
         </div>
     </main>

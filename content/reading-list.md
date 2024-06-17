@@ -1,15 +1,21 @@
 ---
 title: Reading List
 description: My Reading List
-layout: article
+layout: markdown
 ---
 
+::content-hero
 # {{ title }}
+::
+
+::markdown-content
+
 
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
 - Savage Gods / Paul Kingsnorth
+- Cartoons / Kit Schluter
 
 ## 2024
 
@@ -189,3 +195,6 @@ layout: article
 - Independence Day / Richard Ford
 - Brave New World / Aldous Huxley
 - The Collected Poems / Sylvia Plath
+
+
+::
