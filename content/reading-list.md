@@ -14,8 +14,8 @@ layout: markdown
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- Savage Gods / Paul Kingsnorth
 - Cartoons / Kit Schluter
+- Vardagar / Ulf Lundell
 
 ## 2024
 
@@ -46,6 +46,7 @@ layout: markdown
 - Hands of Time / Rebecca Struthers
 - His Name was Death / Rafael Bernal
 - Meditations / Marcus Aurelius
+- Savage Gods / Paul Kingsnorth
 
 ## 2023
 
