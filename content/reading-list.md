@@ -14,8 +14,6 @@ layout: markdown
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
-- Cartoons / Kit Schluter
-- Vardagar / Ulf Lundell
 
 ## 2024
 
@@ -47,6 +45,7 @@ layout: markdown
 - His Name was Death / Rafael Bernal
 - Meditations / Marcus Aurelius
 - Savage Gods / Paul Kingsnorth
+- Cartoons / Kit Schluter
 
 ## 2023
 
