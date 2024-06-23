@@ -14,6 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - Against the Day / Thomas Pynchon
+- Dune Messiah / Frank Herbert
 
 ## 2024
 
