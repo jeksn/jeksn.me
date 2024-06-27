@@ -15,6 +15,7 @@ layout: markdown
 
 - Against the Day / Thomas Pynchon
 - Dune Messiah / Frank Herbert
+- Nicomachean Ethics / Aristotle
 
 ## 2024
 
