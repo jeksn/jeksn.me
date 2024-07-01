@@ -48,6 +48,7 @@ layout: markdown
 - Meditations / Marcus Aurelius
 - Savage Gods / Paul Kingsnorth
 - Cartoons / Kit Schluter
+- White Nights & Bobok / Fyodor Dostoyevsky 
 
 ## 2023
 
