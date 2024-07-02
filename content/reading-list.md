@@ -16,6 +16,7 @@ layout: markdown
 - Against the Day / Thomas Pynchon
 - Dune Messiah / Frank Herbert
 - Nicomachean Ethics / Aristotle
+- Letters to a Young Poet / Rainer Maria Rilke
 
 ## 2024
 
