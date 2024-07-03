@@ -5,7 +5,6 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
     '@nuxthq/studio',
-    "nuxt-feedme",
     "@nuxthub/core"
   ],
   content: {
