@@ -16,7 +16,6 @@ layout: markdown
 - Against the Day / Thomas Pynchon
 - Dune Messiah / Frank Herbert
 - Nicomachean Ethics / Aristotle
-- Letters to a Young Poet / Rainer Maria Rilke
 
 ## 2024
 
@@ -50,6 +49,7 @@ layout: markdown
 - Savage Gods / Paul Kingsnorth
 - Cartoons / Kit Schluter
 - White Nights & Bobok / Fyodor Dostoyevsky 
+- ⭐️ Letters to a Young Poet / Rainer Maria Rilke
 
 ## 2023
 
