@@ -13,9 +13,8 @@ layout: markdown
 
 ## Currently Reading:
 
-- Against the Day / Thomas Pynchon
-- Dune Messiah / Frank Herbert
 - Nicomachean Ethics / Aristotle
+- Hard Rain Falling / Don Carpenter
 
 ## 2024
 
@@ -50,6 +49,7 @@ layout: markdown
 - Cartoons / Kit Schluter
 - White Nights & Bobok / Fyodor Dostoyevsky 
 - ⭐️ Letters to a Young Poet / Rainer Maria Rilke
+- Dune Messiah / Frank Herbert
 
 ## 2023
 
