@@ -14,7 +14,6 @@ layout: markdown
 ## Currently Reading:
 
 - Nicomachean Ethics / Aristotle
-- Hard Rain Falling / Don Carpenter
 
 ## 2024
 
@@ -50,6 +49,7 @@ layout: markdown
 - White Nights & Bobok / Fyodor Dostoyevsky 
 - ⭐️ Letters to a Young Poet / Rainer Maria Rilke
 - Dune Messiah / Frank Herbert
+- Hard Rain Falling / Don Carpenter
 
 ## 2023
 
