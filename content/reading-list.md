@@ -14,6 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - Nicomachean Ethics / Aristotle
+- The Winter King / Bernard Cornwell
 
 ## 2024
 
