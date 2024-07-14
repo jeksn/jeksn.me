@@ -14,7 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - Nicomachean Ethics / Aristotle
-- The Winter King / Bernard Cornwell
+- The Fellowship of the Ring / J.R.R. Tolkien
 
 ## 2024
 
