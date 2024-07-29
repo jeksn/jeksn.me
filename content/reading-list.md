@@ -15,7 +15,7 @@ layout: markdown
 
 - Nicomachean Ethics / Aristotle
 - The Fellowship of the Ring / J.R.R. Tolkien
-- The Screwtape Letters / C.S. Lewis.
+- The Screwtape Letters / C.S. Lewis
 
 ## 2024
 
