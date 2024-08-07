@@ -38,7 +38,7 @@ definePageMeta({
                     <li>Macbook Air M1</li>
                     <li>Keychron K3</li>
                     <li>Logitech MX Master 2S</li>
-                    <li>Samsung T3 1TB SSD</li>
+                    <li>Samsung T7 1TB SSD</li>
                 </ul>
                 <br>
                 <h2 class="text-2xl">Headphones</h2>
