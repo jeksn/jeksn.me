@@ -15,7 +15,6 @@ layout: markdown
 
 - Nicomachean Ethics / Aristotle
 - The Fellowship of the Ring / J.R.R. Tolkien
-- The Screwtape Letters / C.S. Lewis
 
 ## 2024
 
@@ -52,6 +51,7 @@ layout: markdown
 - ⭐️ Letters to a Young Poet / Rainer Maria Rilke
 - Dune Messiah / Frank Herbert
 - Hard Rain Falling / Don Carpenter
+- The Screwtape Letters / C.S. Lewis
 
 ## 2023
 
