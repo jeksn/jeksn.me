@@ -14,7 +14,6 @@ layout: markdown
 ## Currently Reading:
 
 - Nicomachean Ethics / Aristotle
-- A Prayer for the Crown-Shy / Becky Chambers
 
 ## 2024
 
@@ -53,6 +52,7 @@ layout: markdown
 - Hard Rain Falling / Don Carpenter
 - The Screwtape Letters / C.S. Lewis
 - The Fellowship of the Ring / J.R.R. Tolkien
+- A Prayer for the Crown-Shy / Becky Chambers
 
 ## 2023
 
