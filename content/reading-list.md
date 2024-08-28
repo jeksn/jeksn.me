@@ -14,6 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - Nicomachean Ethics / Aristotle
+- Treasure Island / Robert Louis Stevenson
 
 ## 2024
 
