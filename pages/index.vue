@@ -15,7 +15,8 @@ definePageMeta({
 						href="https://github.com/jeksn"
 						class="underline transition-all underline-offset-4 hover:underline-offset-8"
 					 >developer</a>
-					 based in&nbsp;Stockholm
+					 <br>
+					  in Stockholm
 				  </h2>
 				  <p class="max-w-screen-lg mt-6 text-base md:text-2xl">
 					 I'm a design-minded developer working at 
@@ -25,7 +26,7 @@ definePageMeta({
 					>WTMG.
 					</a>
 					<br />
-			This is my small home on the web.
+					This is my small home on the web.
 					<br />
 					Don't hesitate to get in touch.
 				  </p>
