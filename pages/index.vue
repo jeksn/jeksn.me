@@ -7,8 +7,8 @@ definePageMeta({
 <template>
     <NuxtLayout>
 		<PageContent>
-			<div class="flex flex-col items-center justify-center mt-[20vh] px-4">
-				<div class="max-w-screen-lg px-4 mx-auto">
+			<div class="flex flex-col items-start justify-center mt-[20vh] px-4">
+				<div>
 				  <h2 class="mt-4 text-4xl font-semibold md:text-6xl">
 					 Front-end
 					 <a
@@ -18,7 +18,7 @@ definePageMeta({
 					 <br>
 					  in Stockholm
 				  </h2>
-				  <p class="max-w-screen-lg mt-6 text-base md:text-2xl">
+				  <p class="mt-6 text-base md:text-2xl">
 					 I'm a design-minded developer working at 
 					<a
 					href="https://wtmg.se"
