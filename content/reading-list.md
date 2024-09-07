@@ -13,8 +13,7 @@ layout: markdown
 
 ## Currently Reading:
 
-- Nicomachean Ethics / Aristotle
-- Treasure Island / Robert Louis Stevenson
+- Blod Eld Död : En svensk metalhistoria / Ika Johannesson & Jon Jefferson Klingberg
 
 ## 2024
 
@@ -54,6 +53,7 @@ layout: markdown
 - The Screwtape Letters / C.S. Lewis
 - The Fellowship of the Ring / J.R.R. Tolkien
 - A Prayer for the Crown-Shy / Becky Chambers
+- Nicomachean Ethics / Aristotle
 
 ## 2023
 
