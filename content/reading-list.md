@@ -14,6 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - Treasure Island / Robert Louis Stevenson
+- The Two Towers / J.R.R. Tolkien
 
 ## 2024
 
