@@ -13,8 +13,8 @@ layout: markdown
 
 ## Currently Reading:
 
-- Treasure Island / Robert Louis Stevenson
 - The Two Towers / J.R.R. Tolkien
+- The Turn of the Screw / Henry James
 
 ## 2024
 
@@ -56,6 +56,7 @@ layout: markdown
 - A Prayer for the Crown-Shy / Becky Chambers
 - Nicomachean Ethics / Aristotle
 - Blod Eld Död : En svensk metalhistoria / Ika Johannesson & Jon Jefferson Klingberg
+- Treasure Island / Robert Louis Stevenson
 
 ## 2023
 
