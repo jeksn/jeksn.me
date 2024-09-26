@@ -1,8 +1,8 @@
 <script setup lang="ts">
 
-const title = ref('Notes');
+const title = ref('Blog');
 definePageMeta({
-    title: 'Notes',
+    title: 'Blog',
     layout: 'page'
 })
 
@@ -13,6 +13,6 @@ definePageMeta({
         <Hero>
             <h1 class="mb-4 text-4xl">{{ title }}</h1>
         </Hero>
-        <NoteList />
+        <BlogList />
     </NuxtLayout>
 </template>
