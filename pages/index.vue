@@ -7,7 +7,7 @@ definePageMeta({
 <template>
     <NuxtLayout>
 		<PageContent>
-			<div class="flex flex-col items-start justify-center utmt-[20vh] px-4">
+			<div class="flex flex-col items-start justify-center mt-[20vh] px-4">
 				<div>
 				  <h2 class="mt-4 text-4xl font-semibold md:text-6xl">
 					 Front-end
