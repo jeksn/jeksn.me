@@ -13,6 +13,9 @@ definePageMeta({
         <Hero>
             <h1 class="mb-4 text-4xl">{{ title }}</h1>
         </Hero>
-        <BlogList />
+        <div class="flex flex-col md:flex-row">
+            <BlogList />
+            <RssButton />
+        </div>
     </NuxtLayout>
 </template>
