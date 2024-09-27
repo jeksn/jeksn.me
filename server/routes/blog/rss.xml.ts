@@ -3,7 +3,7 @@ import { serverQueryContent } from '#content/server'
 
 export default defineEventHandler(async (event) => {
 
-    const BASE_URL = 'https://jeksn.me/'
+    const BASE_URL = 'https://jeksn.me'
 
     const feed = new RSS({
         title: 'jeksn | Blog',
