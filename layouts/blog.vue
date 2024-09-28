@@ -30,7 +30,7 @@
     @apply list-disc list-inside mb-1;
 }
 pre {
-    @apply rounded-md p-6 bg-neutral-900;
+    @apply rounded-md p-6 bg-neutral-900 overflow-x-scroll;
 }
 code {
     @apply rounded-md px-2 py-1 bg-neutral-900;
