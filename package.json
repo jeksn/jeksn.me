@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.12.1",
+    "@nuxt/image": "^1.8.0",
     "@nuxthub/core": "^0.7.0",
     "nuxt": "^3.11.2",
     "rss": "^1.2.2"

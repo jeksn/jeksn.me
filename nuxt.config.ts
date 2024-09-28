@@ -5,7 +5,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
     '@nuxthq/studio',
-    "@nuxthub/core"
+    "@nuxthub/core",
+    '@nuxt/image'
   ],
   content: {
     documentDriven: true
