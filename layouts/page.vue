@@ -1,7 +1,7 @@
 <template>
     <Header />
     <main>
-        <div class="min-h-[80vh]">
+        <div class="min-h-[60vh]">
             <slot />
         </div>
     </main>
