@@ -31,12 +31,12 @@
               Uses
               </NuxtLink>
             </li>
-            <li class="py-2">
+            <!-- <li class="py-2">
               <NuxtLink to="/reading-list"
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
               Reading list
               </NuxtLink>
-            </li>
+            </li> -->
             <li class="py-2">
               <NuxtLink to="/now"
               class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
