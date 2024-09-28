@@ -5,7 +5,7 @@ layout: 'blog'
 ---
 ::content-hero
 # {{ title }}
-#### {{ pubDate }}
+{{ pubDate }}
 ::
 ::markdown-content
 

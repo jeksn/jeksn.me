@@ -5,7 +5,7 @@ layout: 'blog'
 ---
 ::content-hero
 # {{ title }}
-#### {{ pubDate }}
+{{ pubDate }}
 ::
 ::markdown-content
 For the past few years I've been cutting down on the amount of social media I use.

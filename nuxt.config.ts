@@ -9,6 +9,12 @@ export default defineNuxtConfig({
     '@nuxt/image'
   ],
   content: {
-    documentDriven: true
+    documentDriven: true,
+    highlight: {
+      theme: {
+          default: "tokyo-night",
+          // dark: "github-dark",
+      },
+  },
   }
 })
