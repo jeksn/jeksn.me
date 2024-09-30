@@ -14,7 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - The Two Towers / J.R.R. Tolkien
-- The Turn of the Screw / Henry James
+- Mrs Dalloway - Virginia Woolf
 
 ## 2024
 
@@ -57,6 +57,7 @@ layout: markdown
 - Nicomachean Ethics / Aristotle
 - Blod Eld Död : En svensk metalhistoria / Ika Johannesson & Jon Jefferson Klingberg
 - Treasure Island / Robert Louis Stevenson
+- The Turn of the Screw / Henry James
 
 ## 2023
 
