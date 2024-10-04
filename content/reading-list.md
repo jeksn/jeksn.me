@@ -14,7 +14,7 @@ layout: markdown
 ## Currently Reading:
 
 - The Two Towers / J.R.R. Tolkien
-- Europe Central / William T.Vollmann
+- Europe Central / William T. Vollmann
 
 ## 2024
 
