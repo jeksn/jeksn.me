@@ -13,8 +13,8 @@ layout: markdown
 
 ## Currently Reading:
 
-- The Two Towers / J.R.R. Tolkien
 - Europe Central / William T. Vollmann
+- We Have Always Lived in the Castle / Shirley Jackson
 
 ## 2024
 
