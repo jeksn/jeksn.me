@@ -16,5 +16,8 @@ export default defineNuxtConfig({
           // dark: "github-dark",
       },
   },
+  markdown: {
+    anchorLinks: false,
+  }
   }
 })
