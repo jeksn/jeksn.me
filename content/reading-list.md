@@ -14,7 +14,6 @@ layout: markdown
 ## Currently Reading:
 
 - Europe Central / William T. Vollmann
-- We Have Always Lived in the Castle / Shirley Jackson
 
 ## 2024
 
@@ -58,6 +57,7 @@ layout: markdown
 - Blod Eld Död : En svensk metalhistoria / Ika Johannesson & Jon Jefferson Klingberg
 - Treasure Island / Robert Louis Stevenson
 - The Turn of the Screw / Henry James
+- We Have Always Lived in the Castle / Shirley Jackson
 
 ## 2023
 
