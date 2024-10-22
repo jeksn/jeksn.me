@@ -13,7 +13,8 @@ layout: markdown
 
 ## Currently Reading:
 
-- Europe Central / William T. Vollmann
+- The Two Towers / J.R.R. Tolkien
+- Digital Minimalism / Cal Newport
 
 ## 2024
 
