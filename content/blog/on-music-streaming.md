@@ -15,7 +15,7 @@ So I migrated everything over to Qobuz, but unfortunately the experience of usin
 The library is not nearly as extensive as Apple Music and just that alone makes it not really justifiable to pay an even higher monthly fee.
 
 What fixed my issue with the MacOS app was to not use it at all and instead use [Cider](https://cider.sh/), which is a separate app that provides a much better experience that the default.
-It looks and works great and costs just $3.49.
+It looks and works great and costs ~50sek, which is very reasonable. Before I checked the pricing I expected it to be more expensive, so that was a pleasant surprise in an age where pretty much everything is overpriced.
 
 So for now I'll just go with this setup for my streaming needs, but I will still keep buying CDs and music through Bandcamp.
 Because I still like the idea of actually owning my favorite music.
