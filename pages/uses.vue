@@ -1,10 +1,24 @@
 <script setup lang="ts">
+
+import DataListItem from '~/components/DataListItem.vue';
+
 const title = ref('Uses');
+
 const description = ref('List off stuff and services I use');
 definePageMeta({
   title: 'Uses',
   layout: 'page',
 })
+
+interface Item {
+    name: string;
+    description: string;
+}
+
+const { data: appsServices } = await useFetch<Item[]>('/data/apps-services.json')
+const { data: gear } = await useFetch<Item[]>('/data/gear.json')
+const { data: headphones } = await useFetch<Item[]>('/data/headphones.json')
+
 </script>
 <template>
     <Head>
@@ -18,35 +32,10 @@ definePageMeta({
     </Hero>
     <PageContent>
         <div class="mt-6">
-            <div>
-                <br>
-                <h2 class="text-2xl">Apps & Services</h2>
-                <ul class="mt-4 list-disc list-inside">
-                    <li>Firefox (and Chrome for web dev)</li>
-                    <li>VS Code (and sometimes NeoVim)</li>
-                    <li>Warp</li>
-                    <li>Obsidian (for all my notes)</li>
-                    <li>Proton Mail, Pass, and Drive</li>
-                    <li>Feedbin (for RSS)</li>
-                    <li>Airshow (for podcasts)</li>
-                    <li>Apple Music</li>
-                    <li>Raycast</li>
-                </ul>
-                <br>
-                <h2 class="text-2xl">Gear</h2>
-                <ul class="mt-4 list-disc list-inside">
-                    <li>Macbook Air M1</li>
-                    <li>Lenovo Thinkpad X280 (running Linux Mint)</li>
-                    <li>Keychron K3 v2</li>
-                    <li>Logitech MX Master 2S</li>
-                    <li>Samsung T7 1TB SSD</li>
-                </ul>
-                <br>
-                <h2 class="text-2xl">Headphones</h2>
-                <ul class="mt-4 list-disc list-inside">
-                    <li>Soundcore P2 Mini</li>
-                    <li>Sony WH-XB900N</li>
-                </ul>
+            <div class="flex flex-col gap-4">
+                <DataListItem title="Apps & Services" :items="appsServices ?? []"/>
+                <DataListItem title="Gear" :items="gear ?? []"/>
+                <DataListItem title="Headphones" :items="headphones ?? []"/>
             </div>
         </div>
     </PageContent>

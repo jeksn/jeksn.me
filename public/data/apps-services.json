@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Firefox",
+        "description": "(replaced Arc)"
+    },
+    {
+        "name": "VS Code",
+        "description": "(and sometimes NeoVim)"
+    },
+    {
+        "name": "Wezterm",
+        "description": "(replaced Warp)"
+    },
+    {
+        "name": "Obsidian",
+        "description": "(for all my notes)"
+    },
+    {
+        "name": "Proton Mail, Pass, and Drive",
+        "description": ""
+    },
+    {
+        "name": "Feedbin",
+        "description": "(for RSS)"
+    },
+    {
+        "name": "Airshow",
+        "description": "(for podcasts)"
+    },
+    {
+        "name": "Raycast",
+        "description": ""
+    },
+    {
+        "name": "Qobuz",
+        "description": "(replaced Apple Music)"
+    }
+]
