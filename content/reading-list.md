@@ -14,7 +14,6 @@ layout: markdown
 ## Currently Reading:
 
 - The Two Towers / J.R.R. Tolkien
-- Digital Minimalism / Cal Newport
 
 ## 2024
 
@@ -59,6 +58,7 @@ layout: markdown
 - Treasure Island / Robert Louis Stevenson
 - The Turn of the Screw / Henry James
 - We Have Always Lived in the Castle / Shirley Jackson
+- Digital Minimalism / Cal Newport
 
 ## 2023
 
