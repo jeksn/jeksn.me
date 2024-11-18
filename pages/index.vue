@@ -25,7 +25,6 @@ definePageMeta({
 							  <br />
 							  This is my small home on the web.
 							  <br />
-							  Don't hesitate to get in touch.
 							</p>
 							<div class="mt-8">
 						   <h2 class="text-lg md:text-xl">Where to find me:</h2>
