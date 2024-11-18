@@ -3,8 +3,11 @@
     <header class="sticky top-0 w-full">
       <div class="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
         <div>
-          <NuxtLink to="/" class="px-4 py-2 text-sm text-black duration-300 ease-in-out bg-white rounded-sm hover:bg-[#151515] hover:text-white">
+          <!-- <NuxtLink to="/" class="px-4 py-2 text-sm text-black duration-300 ease-in-out bg-white rounded-sm hover:bg-[#151515] hover:text-white">
             jeksn.me
+          </NuxtLink> -->
+          <NuxtLink to="/" class="cursor-pointer">
+            <NuxtImg src="/blue.png" class="transition-all duration-200 rounded-full size-8 hover:scale-110" />
           </NuxtLink>
         </div>
         <div>
