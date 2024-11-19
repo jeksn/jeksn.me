@@ -14,6 +14,8 @@ layout: markdown
 ## Currently Reading:
 
 - The Two Towers / J.R.R. Tolkien
+- The Canopy of Time / Brian W. Aldiss
+- Den halvfärdiga himlen / Tomas Tranströmer
 
 ## 2024
 
